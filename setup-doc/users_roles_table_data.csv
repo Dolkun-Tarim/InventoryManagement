@@ -1,0 +1,6 @@
+id,user_id,role_id,user_uuid
+1,1,2,b6fab553-f489-11eb-a0b0-00ffd03bad30
+2,2,1,c1cd1d9c-f489-11eb-a0b0-00ffd03bad30
+3,3,3,c845f91c-f489-11eb-a0b0-00ffd03bad30
+4,4,1,cc417ff9-f489-11eb-a0b0-00ffd03bad30
+6,5,4,d0957a12-f489-11eb-a0b0-00ffd03bad30

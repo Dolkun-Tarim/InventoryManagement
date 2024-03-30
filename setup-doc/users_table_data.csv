@@ -1,0 +1,6 @@
+user_id,email,username,password,enabled,user_uuid,first_name,last_name
+1,creator@test.com,creator,$2a$10$QlSVxp16mBeE363j3HFfGOTSdb6Eydt3SXW7WUJyIfMqALVywUdzm,1,b6fab553-f489-11eb-a0b0-00ffd03bad30,Creator,Testing
+2,user1@test.com,user1,$2a$10$QlSVxp16mBeE363j3HFfGOTSdb6Eydt3SXW7WUJyIfMqALVywUdzm,1,c1cd1d9c-f489-11eb-a0b0-00ffd03bad30,User1,Testing
+3,editor@test.com,editor,$2a$10$QlSVxp16mBeE363j3HFfGOTSdb6Eydt3SXW7WUJyIfMqALVywUdzm,1,c845f91c-f489-11eb-a0b0-00ffd03bad30,Editor,Testing
+4,user2@test.com,user2,$2a$10$QlSVxp16mBeE363j3HFfGOTSdb6Eydt3SXW7WUJyIfMqALVywUdzm,1,cc417ff9-f489-11eb-a0b0-00ffd03bad30,User2,Testing
+5,admin@test.com,admin,$2a$10$QlSVxp16mBeE363j3HFfGOTSdb6Eydt3SXW7WUJyIfMqALVywUdzm,1,d0957a12-f489-11eb-a0b0-00ffd03bad30,Admin,Testing

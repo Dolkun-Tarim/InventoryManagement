@@ -1,0 +1,6 @@
+id,name,brand,madein,price,user_uuid
+6,"Javascript 101",Oracle,USA,200.00,d0957a12-f489-11eb-a0b0-00ffd03bad30
+8,"Customer Service Management",Customer,USA,50.00,c1cd1d9c-f489-11eb-a0b0-00ffd03bad30
+9,"Patrick Product 1",Oracle,USA,10.00,b6fab553-f489-11eb-a0b0-00ffd03bad30
+10,"Patrick Product 2",Microsoft,USA,50.00,b6fab553-f489-11eb-a0b0-00ffd03bad30
+28,"Testing Product1",Testing,USA,150.00,1bfda602-7cb1-40b4-acbb-5c8ffbb1fe8e

@@ -2,7 +2,7 @@
 This application illustrate how to use Spring Boot MVC to design a secure web application
 # YouTube Video about the Application
 
-[Watch the Application Explanation Video on YouTube](https://youtu.be/Fs43poT_UX4){:target="_blank" rel="noopener"}
+[Watch the Application Explanation Video on YouTube](https://youtu.be/Fs43poT_UX4)
 
 ### Application Functionalities
 After successfully running the application on your local machine, you should be able to perform the following functionalities:
@@ -27,8 +27,8 @@ To setup the application locally, you need to setup MySQL and prepare some data 
 
 #### Setup MySQL Locally
 You can download and install MySQL Workbench on your local machine and create a database.
-* [Download and Install MySQL Workbench](https://dev.mysql.com/doc/workbench/en/wb-installing.html){:target="_blank" rel="noopener"}
-* [Create MySQL Database using MySQL Workbench](https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-creating-a-model.html){:target="_blank" rel="noopener"}
+* [Download and Install MySQL Workbench](https://dev.mysql.com/doc/workbench/en/wb-installing.html)
+* [Create MySQL Database using MySQL Workbench](https://dev.mysql.com/doc/workbench/en/wb-getting-started-tutorial-creating-a-model.html)
 
 * product_management database schema should contain the following tables in the screenshot below. 
 

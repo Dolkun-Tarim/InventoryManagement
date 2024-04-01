@@ -77,3 +77,11 @@ The application should run successfully,and you should be able to use the applic
 http://localhost:8089
 ```
 ![Application Dashboard](setup-doc/application_run.png)
+
+### Login as Admin, Editor, Creator, or User
+Since the password in the database is encoded, you can use the following username and password to login
+Username: admin Password: testing
+Username: user1 Password: testing
+Username: user2 Password: testing
+* When you sign up as a new user, you can use your own username and password.
+* If you want to reset the existing password for admin, user1 or user2 , you can use the PasswordGenerator application under the util package. 
